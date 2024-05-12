@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KAwwDTCZt13prx3HQwG+UBzrhVGlGWypXSZi2RNpA0o=",
+  "Source": "MAPI",
+  "BasePath": "_content/MAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
